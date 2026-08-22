@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-12 02:53:59
+# UPDATED: 2026-08-22 02:30:02
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34679
+# DOMAIN-SUFFIX: 34734
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 35005
+# TOTAL: 35060
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -494,6 +494,7 @@
 .5aimiku.com
 .5axis-machining.com
 .5beatsbydre.com
+.5ch.io
 .5ch.net
 .5fang.cc
 .5i01.com
@@ -911,6 +912,9 @@
 .activelearnprimary.com.au
 .activematter.game
 .activeteachonline.com
+.activision.com
+.activisionblizzard.com
+.activisionblizzardmedia.com
 .activpn.com
 .actofunion.ac.uk
 .actris.ac.uk
@@ -1913,6 +1917,7 @@
 .amazonvideo.cc
 .amazonvideo.com
 .amazonvideodirect.com
+.amazonwebservices.com
 .amazonworkdocs.com
 .ambs.ac.uk
 .amc.com
@@ -4012,6 +4017,7 @@
 .bemywife.cc
 .benaughty.fun
 .benc.ac.uk
+.benefitsforeveryworld.com
 .bengalisexvideos.com
 .benliton.com
 .bentobox.tv
@@ -5599,6 +5605,7 @@
 .building3dcontent.com
 .builtenvsigns.ac.uk
 .builtfromebay.com
+.builtwithnix.org
 .bukkake-jav.com
 .bukkake.link
 .bullguard.com
@@ -5865,6 +5872,11 @@
 .callbackkiller.com
 .callersbane.com
 .callhulu.com
+.callofduty.com
+.callofdutyendowment.com
+.callofdutyendowment.org
+.callofdutyleague.com
+.callofdutymobile.com
 .calls.ac.uk
 .callywith.ac.uk
 .caltech.edu
@@ -5949,6 +5961,7 @@
 .candi.ac.uk
 .candidforum-videos.com
 .cando.ac.uk
+.candycrush.com
 .candycumcity.com
 .candypleasure.com
 .cannington.ac.uk
@@ -7551,6 +7564,7 @@
 .cranfield.ac.uk
 .crankplayer.com
 .crash.ac.uk
+.crashbandicoot.com
 .crates.io
 .craven-college.ac.uk
 .crawley-college.ac.uk
@@ -8359,6 +8373,7 @@
 .democracy.earth
 .democrats.org
 .demonoid.is
+.demonware.net
 .demoprint.com
 .demos.ac.uk
 .demosisto.hk
@@ -8508,7 +8523,9 @@
 .dhi.ac.uk
 .dhlestudio.com.co
 .diabetes-healthnet.ac.uk
+.diablo.com
 .diablo3.com
+.diablo4.com
 .diabloimmortal.com
 .diabrowser.com
 .diabrowser.engineering
@@ -9116,6 +9133,7 @@
 .dreamamateurs.com
 .dreambmw.ca
 .dreamforce.com
+.dreamgen.com
 .dreammovies.com
 .dreamorder.com
 .dreamteamfc.com
@@ -10486,6 +10504,7 @@
 .europeansustainabledesign.net
 .europeansustainabledesigncouncil.com
 .europeansustainabledesigncouncil.net
+.europeanwarzoneseries.com
 .europepmc.org
 .europeunit.ac.uk
 .europornstar.com
@@ -11004,6 +11023,7 @@
 .fans17.com
 .fans66.tw
 .fansking.tw
+.fansly.com
 .fansnudes.com
 .fansone.co
 .fanspot.jp
@@ -14368,6 +14388,7 @@
 .highfieldscentre.ac.uk
 .highlands-jersey.ac.uk
 .highlands.ac.uk
+.highmoonstudios.com
 .highpeak.ac.uk
 .highpeakspureearth.com
 .highporn.net
@@ -15825,6 +15846,7 @@
 .inf.news
 .infinitetoons.com
 .infinitetube.com
+.infinityward.com
 .influencersgonewild.com
 .info-graf.fr
 .infocert.digital
@@ -17501,6 +17523,7 @@
 .kindteenporn.com
 .kinescopecdn.net
 .king.ac.uk
+.king.com
 .kingalfreds.ac.uk
 .kingalfredsbasingstoke.ac.uk
 .kingcomix.com
@@ -20880,6 +20903,7 @@
 .mynetav.org
 .mynetname.net
 .mynike.com
+.mynixos.com
 .mynumber.org
 .myoctocat.com
 .myparagliding.com
@@ -21642,6 +21666,8 @@
 .nicis.ac.uk
 .nickscipio.com
 .nicky.xxx
+.nico.ms
+.nicochannel.jp
 .nicodic.jp
 .nicolepeters.com
 .nicomanga.jp
@@ -21888,7 +21914,15 @@
 .nivod.tv
 .nivodi.tv
 .nivodz.com
+.nix-community.org
+.nix.dev
+.nix.store
+.nixcon.org
+.nixcon2017.org
+.nixlang.com
 .nixos.org
+.nixos.wiki
+.nixpkgs.org
 .niziero.info
 .njactb.org
 .njav.tv
@@ -21966,6 +22000,7 @@
 .noodlevpn.com
 .noosferabank.ru
 .norbulingka.org
+.nordcdn.com
 .nordstrom.com
 .nordstromimage.com
 .nordstrommedia.com
@@ -22011,6 +22046,7 @@
 .norton.com
 .norwichresearchpark.ac.uk
 .nos.nl
+.notegpt.io
 .notepad-plus-plus.org
 .noticias-rt.com
 .notimundo.press
@@ -22038,6 +22074,7 @@
 .nottm-coll.ac.uk
 .nottsmaternity.ac.uk
 .novafile.com
+.novelai.net
 .novelasia.com
 .novella.ac.uk
 .noveltrove.com
@@ -22595,6 +22632,7 @@
 .oldham.ac.uk
 .oldhornymilfs.com
 .oldje.com
+.oldmapsonline.org
 .oldroyd.ac.uk
 .olds.ac.uk
 .oldvic.ac.uk
@@ -25141,6 +25179,7 @@
 .ravemedia.ac.uk
 .ravensbourne.ac.uk
 .ravensbourneuniversitylondon.ac.uk
+.ravensoftware.com
 .ravm.tv
 .rawgit.com
 .rawgithub.com
@@ -25824,6 +25863,7 @@
 .rse.ac.uk
 .rsf-chinese.org
 .rsf.org
+.rsg.ms
 .rsg.sc
 .rsgamen.org
 .rshb.ru
@@ -25980,6 +26020,7 @@
 .rutracker.net
 .rutracker.nl
 .rutracker.org
+.rutracker.wiki
 .rutrecker.net
 .rutube.ru
 .rutube.sport
@@ -26256,6 +26297,8 @@
 .sbux.com.my
 .sbuxcard.com
 .sc-cdn.net
+.sc-gw.com
+.sc-static.net
 .sc-toolkit.ac.uk
 .sc.com
 .sc1.ac.uk
@@ -26531,6 +26574,7 @@
 .sejie.com
 .sejie80.com
 .sekai.colorfulpalette.org
+.sekirothegame.com
 .seksmet.nl
 .sekswebsite.nl
 .sekur1213.guru
@@ -27122,6 +27166,7 @@
 .sie.ac.uk
 .siege-amazon.com
 .sierrafriendsoftibet.org
+.sierragames.com
 .sifa.ac.uk
 .sigcomm.org
 .sigma-cetl.ac.uk
@@ -27301,6 +27346,7 @@
 .skybet.com
 .skyking.com.tw
 .skykiwi.com
+.skylanders.com
 .skymansion.net
 .skymatter.com
 .skynet.be
@@ -27353,6 +27399,7 @@
 .sleazydream.com
 .sleazyfork.org
 .sleazyneasy.com
+.sledgehammergames.com
 .sleepandwakefulnessresearch.ac.uk
 .slg.ac.uk
 .slheng.com
@@ -27575,6 +27622,7 @@
 .solidaritetibet.org
 .solidfiles.com
 .solidifi.app
+.solidstate.com
 .solihull.ac.uk
 .solihullsfc.ac.uk
 .solostudioksale.com
@@ -27935,6 +27983,7 @@
 .sputnikmediabank.com
 .sputniknews.com
 .spyjinx.com
+.spyrothedragon.com
 .sqhwesternconsortium.ac.uk
 .sqlite.org
 .sqlserveronlinux.com
@@ -28828,6 +28877,7 @@
 .talentlens.com
 .taleofthenight.com
 .talk853.com
+.talkai.info
 .talkatone.com
 .talkboxapp.com
 .talkcc.com
@@ -29762,6 +29812,8 @@
 .tongil.or.kr
 .tonicmovies.com
 .tono-oka.jp
+.tonyhawk.com
+.tonyhawkthegame.com
 .tonyyan.net
 .toodoc.com
 .toolforge.org
@@ -29962,6 +30014,7 @@
 .trendsmap.com
 .trendyporn.com
 .tresham.ac.uk
+.treyarch.com
 .trezor.io
 .tri-london.ac.uk
 .trialofccp.org
@@ -32883,6 +32936,7 @@
 .worldpornvideos.com
 .worldsecureemail.com
 .worldsecuresystems.com
+.worldseriesofwarzone.com
 .worldsex.com
 .worldsfastestgamer.net
 .worldvpn.net
@@ -33886,6 +33940,7 @@
 .yandex.eu
 .yandex.fi
 .yandex.fr
+.yandex.it
 .yandex.jobs
 .yandex.kg
 .yandex.kz
