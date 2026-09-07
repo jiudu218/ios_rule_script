@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-30 04:17:10
+# UPDATED: 2026-09-06 03:52:55
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34747
+# DOMAIN-SUFFIX: 34756
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 35028
+# TOTAL: 35037
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -3930,6 +3930,7 @@ login.microsoftonline.com
 +.blackboxgames.com
 +.blackburn.ac.uk
 +.blackcountryandmarchesiot.ac.uk
++.blackedraw.com
 +.blackfridaydrebeatsnew.com
 +.blackfridaydrebeatsshop.com
 +.blackhomeporn.com
@@ -6595,7 +6596,6 @@ login.microsoftonline.com
 +.ctan.org
 +.ctc.ac.uk
 +.ctcrm.ac.uk
-+.ctee.com.tw
 +.ctfassets.net
 +.ctg.ac.uk
 +.ctk.ac.uk
@@ -10363,6 +10363,8 @@ login.microsoftonline.com
 +.gastrointestinalexam.com
 +.gate.ac.uk
 +.gate.cc
++.gate.tv
++.gateapi.io
 +.gatedata.org
 +.gateimg.com
 +.gateio.live
@@ -16309,6 +16311,7 @@ login.microsoftonline.com
 +.milftube.pro
 +.milftugs.com
 +.milfvr.com
++.milfy.com
 +.milfzr.com
 +.miliav.com
 +.milkmanbook.com
@@ -17881,7 +17884,6 @@ login.microsoftonline.com
 +.nicolepeters.com
 +.nicomanga.jp
 +.niconico.com
-+.nicoseiga.jp
 +.niees.ac.uk
 +.niesr.ac.uk
 +.night.livedoor.biz
@@ -22540,6 +22542,7 @@ login.microsoftonline.com
 +.slashdot.org
 +.slavbank.ru
 +.slavicstar.com
++.slayed.com
 +.slc.ac.uk
 +.slc.tl
 +.slcollege.ac.uk
@@ -24673,6 +24676,7 @@ login.microsoftonline.com
 +.turn.livekit.cloud
 +.tusco.ru
 +.tushy.com
++.tushyraw.com
 +.tuta.com
 +.tuta.io
 +.tutamail.com
@@ -25766,6 +25770,7 @@ login.microsoftonline.com
 +.vitukali.com
 +.vivaxnxx.com
 +.vixen.com
++.vixengroup.com
 +.vixvids.to
 +.viznet.ac.uk
 +.vk-apps.com
@@ -29451,6 +29456,7 @@ login.microsoftonline.com
 +.csw.org.uk
 +.ct.org.tw
 +.ctao.org
++.ctee.com.tw
 +.ctfriend.net
 +.ctinets.com
 +.ctinews.com
@@ -30405,6 +30411,7 @@ login.microsoftonline.com
 +.getlantern.org
 +.getmalus.com
 +.getmdl.io
++.getmonero.org
 +.getoutline.org
 +.getpricetag.com
 +.getsession.org
@@ -31491,6 +31498,7 @@ login.microsoftonline.com
 +.linpie.com
 +.linux.do
 +.linux.org.hk
++.linux.sb
 +.linuxtoy.org
 +.lionsroar.com
 +.lipuman.com
@@ -32114,6 +32122,7 @@ login.microsoftonline.com
 +.nhncorp.jp
 +.nianticlabs.com
 +.nic.gov
++.nicoseiga.jp
 +.nicovideo.jp
 +.nighost.org
 +.nightlife141.com
