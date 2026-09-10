@@ -2,7 +2,7 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 每天 UTC 0点，也就是北京时间早8点
+    - cron: '23 22 * * *'   # UTC 22:23，即北京时间早6:23
   workflow_dispatch:        # 允许手动点击运行
 
 jobs:
